@@ -41,5 +41,5 @@ El proyecto está organizado de manera secuencial a través de los siguientes ar
 │   ├── 10_Comparativa_compresion_dataset.ipynb   # Análisis cruzado final y estudio del impacto de las 3 compresiones
 │
 ├── resultados                                    # Contiene imágenes de los notebooks en formato png
-├── resultados_finales                            # Contiene tablas resultados de comapraciones en formato csv
+├── resultados_metricas                           # Contiene tablas resultados de comapraciones en formato csv
 └── README.md                                     # Este archivo informativo
